@@ -1,16 +1,11 @@
  [![hugo + netlify](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1656562989/template_1_edyp8b.png)](https://ntl.fyi/3P9w1mr)
 
-# Hugo Quickstart Template   
+# Catgirl Coders & Co
+This is the static website for [catgirlcoders.co](https://catgirlcoders.co), built with Hugo and hosted on Netlify.
 
-This is a bare-bones Hugo project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
-
-Hate reading, here's a video: https://youtu.be/t-tsRxxYdpk
-
-Love reading, here's blog post: https://www.netlify.com/blog/deploy-your-hugo-app-quick/
 
 ## Table of Contents:
 
-- [Quick Setup + Deploy Option](#quick-setup--deploy-option)
 - [Regular Setup](#regular-setup)
   - [Cloning + Install Packages](#1-cloning--install-packages)
   - [Deploying](#2-deploying)
@@ -23,12 +18,6 @@ Love reading, here's blog post: https://www.netlify.com/blog/deploy-your-hugo-ap
   - [Removing Renovate](#removing-renovate)
   - [Removing Cypress](#removing-cypress)
 - [Want to learn more?](#want-to-learn-more)
-
-## Quick Setup + Deploy Option
-
-Click this button and it will help you create a new repo, create a new Netlify project, and deploy!
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/hugo-quickstart)
 
 ## Regular Setup
 
